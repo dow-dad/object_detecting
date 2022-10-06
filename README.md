@@ -1,8 +1,35 @@
+#  Object_detecting
 ## [디지털스마트부산아카데미 1기] 주차장 DataSet을 활용해 CCTV를 구현
+<br/>
+
+***
+
+<br/>
+
+<div><h1>📚 Development Environment</h1></div>
+<div>
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white">
+<img src="https://img.shields.io/badge/YOLO-00FFFF.svg?&style=for-the-badge&logo=YOLO&logoColor=white">
+<img src="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=for-the-badge&logo=Google Colab&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+</div>
+
+<br/>
+
+## 프로젝트 개요
+- [ ]  주차장 DataSet을 학습시켜 주차여부 탐지가 가능한 CCTV 프로그램 
+- [ ]  구현한 CCTV 프로그램의 성능 측정
+- [ ]  수업시간에 배운 Yolov4 이외에 다른 버전의 Yolo를 사용하고 성능 비교
+- [ ]  CCTV 탐지 프로그램을 Android 어플로 제작
+
+<br/>
 
 * Dataset
   * https://public.roboflow.com/object-detection/pklot  
-  
+
 ![스크린샷(2)](https://user-images.githubusercontent.com/90381800/194216063-077b4b34-0cc5-4576-a6c1-3114052d9a11.png)
 
 * Data detail
