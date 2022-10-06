@@ -19,21 +19,23 @@
 
 <br/>
 
-## 프로젝트 개요
-- [x]  주차장 DataSet을 학습시켜 주차여부 탐지가 가능한 CCTV 프로그램 
-- [x]  구현한 CCTV 프로그램의 성능 측정
-- [x]  수업시간에 배운 Yolov4 이외에 다른 버전의 Yolo를 사용하고 성능 비교
-- [x]  CCTV 탐지 프로그램을 Android 어플로 제작
+## 프로젝트 목표
+:heavy_check_mark:  주차장 DataSet을 학습시켜 주차여부 탐지가 가능한 CCTV 프로그램 <br/>
+:heavy_check_mark:  구현한 CCTV 프로그램의 성능 측정 <br/>
+:heavy_check_mark:  수업시간에 배운 Yolov4 이외에 다른 버전의 Yolo를 사용하고 성능 비교 <br/>
+:heavy_check_mark:  CCTV 탐지 프로그램을 Android 어플로 제작
 
 <br/>
 
-* Dataset
+* <h2>Dataset</h2>
   * https://public.roboflow.com/object-detection/pklot  
 
 ![스크린샷(2)](https://user-images.githubusercontent.com/90381800/194216063-077b4b34-0cc5-4576-a6c1-3114052d9a11.png)
 
-* Data detail
-  * Image
+<br/>
+
+* <h2>Data detail</h2> 
+ * image 
   
   
 ![2012-09-11_15_16_58_jpg rf f7c3a6a0a496da10a770916a11b6252c](https://user-images.githubusercontent.com/90381800/194216709-8976c6a7-2338-4d30-9bf4-f5e703ffe71f.jpg)
