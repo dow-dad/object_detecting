@@ -1,5 +1,5 @@
-#  Object_detecting ( YOLO v4, YOLO v7 )
-## [디지털스마트부산아카데미 1기] 주차장 DataSet을 활용해 CCTV를 구현
+#  Object_detecting ( YOLO v4, YOLO v7, Android Studio )
+## [디지털스마트부산아카데미 1기] 주차장 DataSet을 활용해 CCTV 어플 구현
 <br/>
 
 ***
@@ -62,3 +62,4 @@
 
 * YOLO v4  https://github.com/AlexeyAB/darknet  
 * YOLO v7  https://github.com/WongKinYiu/yolov7  
+* Android  
