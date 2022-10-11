@@ -58,7 +58,7 @@
 <br/>
 ![image](https://user-images.githubusercontent.com/90381800/194973702-4c9cd6dc-53a6-4c03-b16b-fe9545c871d3.png)
 
-## 참고
+## :pushpin: 참고
 
 * YOLO v4  https://github.com/AlexeyAB/darknet  
 * YOLO v7  https://github.com/WongKinYiu/yolov7  
