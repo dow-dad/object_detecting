@@ -62,4 +62,4 @@
 
 * YOLO v4  https://github.com/AlexeyAB/darknet  
 * YOLO v7  https://github.com/WongKinYiu/yolov7  
-* Android  
+* Android  https://github.com/tensorflow/examples.git
